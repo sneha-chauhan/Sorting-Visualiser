@@ -23,4 +23,4 @@ Features:
 3) Time and Space complexity of algorithm being visualized. <br/>
 
 Take a look at live version: 
-# Sorting-Visualiser
+
