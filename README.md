@@ -7,7 +7,8 @@
 
 A web application showcasing the inner workings of sorting algorithms.
 
-Implemented algorithms:
+
+## 📌 Implemented algorithms:
 1) Bubble sort
 2) Selection sort
 3) Insertion sort
@@ -15,7 +16,8 @@ Implemented algorithms:
 5) Quick sort
 6) Heap sort
 
-Features:
+
+## 📌 Features:
 1) Colored representation of step being executed. <br/>
   1.1) Turquoise(bluish) : default <br/>
   1.2) Yellow: Being compared <br/>
