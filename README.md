@@ -38,6 +38,10 @@ A web application showcasing the inner workings of sorting algorithms.
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
+  
+## 📷 ScreenShots 
+  ![sorting_visualizer](https://user-images.githubusercontent.com/86673788/191286993-fed395f2-652c-468d-af15-0a385871d45d.png)
+
 
 Take a look at live version: 
 &nbsp;&nbsp;<a href="sorting-visualizer-demonstration.netlify.app"> sorting-visualizer-demonstration.netlify.app </a>
