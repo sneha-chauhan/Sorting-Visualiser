@@ -4,7 +4,7 @@
 ![Sorting Visualizer](https://user-images.githubusercontent.com/40190772/83947174-c3254280-a815-11ea-960c-65d1e2576bce.png)
 
 
-## 📊 Sorting.Visulizer 🕹[Try It Now](sorting-visualizer-demonstration.netlify.app)
+## 📊 Sorting.Visulizer 🕹[Try It Now](https://sorting-visualizer-demonstration.netlify.app/)
 
 <!-- <a href="sorting-visualizer-demonstration.netlify.app"> **Visit Now** 🚀 </a> -->
 
