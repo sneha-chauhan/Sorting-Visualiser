@@ -45,7 +45,7 @@ A web application showcasing the inner workings of sorting algorithms.
 
 
 Take a look at live version: 
-&nbsp;&nbsp;<a href="sorting-visualizer-demonstration.netlify.app"> sorting-visualizer-demonstration.netlify.app </a>
+&nbsp;&nbsp;<a href="https://sorting-visualizer-demonstration.netlify.app/"> sorting-visualizer-demonstration.netlify.app </a>
 
 
 <h2>📬 Contact</h2>
